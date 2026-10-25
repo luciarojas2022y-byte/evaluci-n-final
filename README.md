@@ -1,4 +1,4 @@
-# D&D Glowy — Tienda de packs de belleza (Perú) 💗👑
+# D&D Glowy — Tienda de packs de belleza (Perú) 💗👑#
 
 Sitio web estático (HTML + CSS + JavaScript) para **D&D Glowy**, una tienda que vende
 **packs de belleza, packs para uñas, packs para pestañas y packs para cejas**.
